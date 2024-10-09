@@ -1,2 +1,4 @@
 # test_Bumida
-projek laravel untuk jawaban soal no. 2 dan 3
+login ke Larapus:
+email: admin@gmail.com
+password: 12345678
